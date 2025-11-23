@@ -17,8 +17,8 @@ To design and implement a class NestedIterator that flattens a nested list of in
 ```
 /*
 Program to find Flattening a Nested List Using an Iterator
-Developed by: Nandakesore J
-RegisterNumber: 212223240103
+Developed by: Devadhaarini D
+RegisterNumber: 212223230040
 import java.util.*;
 public class NestedIterator implements Iterator<Integer> {
     private List<Integer> integers = new ArrayList<>();
